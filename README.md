@@ -33,8 +33,6 @@ Space-Mission-Telemetry-Platform
 └── sensor-monitor-device
 ```
 
----
-
 ## Microservices
 
 ### 1. API Gateway
@@ -168,7 +166,19 @@ Responsibilities
 +-------------+   +---------------+ +---------------+ +-------------+
 ```
 
----
+## Screenshots
+
+All microservices were successfully tested through the API Gateway using Postman. The API Gateway routes client requests to the appropriate microservice based on the configured routes.
+
+<img width="1918" height="1137" alt="Screenshot 2026-07-23 201220" src="https://github.com/user-attachments/assets/c2078e42-bd1c-44d0-a061-47f4584f152c" />
+<img width="1917" height="1138" alt="Screenshot 2026-07-23 201426" src="https://github.com/user-attachments/assets/e934c3b5-cdf5-4737-988c-541dcc535c32" />
+<img width="1918" height="1137" alt="Screenshot 2026-07-23 201514" src="https://github.com/user-attachments/assets/c4c3f707-56b5-427a-b38b-ddf5a1b5c847" />
+<img width="1918" height="1141" alt="Screenshot 2026-07-23 201616" src="https://github.com/user-attachments/assets/5b6e6dec-7eb6-4d71-866b-d00f23bf86f5" />
+<img width="1918" height="1137" alt="Screenshot 2026-07-23 201837" src="https://github.com/user-attachments/assets/1b8b382f-6e34-4f9b-87b2-804846dab21e" />
+<img width="1918" height="1140" alt="Screenshot 2026-07-23 201859" src="https://github.com/user-attachments/assets/35e4a0ec-de69-455b-bc01-7e97d18645a9" />
+<img width="1918" height="1138" alt="Screenshot 2026-07-23 202114" src="https://github.com/user-attachments/assets/6c88a1c2-b41f-433d-90a6-b3245820c92f" />
+<img width="1918" height="1138" alt="Screenshot 2026-07-23 201955" src="https://github.com/user-attachments/assets/2c13650f-02ed-44f1-929c-dbeebacecaaf" />
+
 
 ## Future Enhancements
 
@@ -183,7 +193,6 @@ Responsibilities
 - Monitoring Dashboard
 - Database Integration
 
----
 
 ## Author
 
