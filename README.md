@@ -168,7 +168,7 @@ Responsibilities
 
 ## Screenshots
 
-All microservices were successfully tested through the API Gateway using Postman. The API Gateway routes client requests to the appropriate microservice based on the configured routes.
+All microservices were accessed and tested through the **API Gateway** running on **Port 8084**. The API Gateway acts as the single entry point for client requests and routes them to the appropriate microservice based on the configured routes. The following screenshots demonstrate successful **GET** and **POST** requests for each microservice through the API Gateway.
 
 <img width="1918" height="1137" alt="Screenshot 2026-07-23 201220" src="https://github.com/user-attachments/assets/c2078e42-bd1c-44d0-a061-47f4584f152c" />
 <img width="1917" height="1138" alt="Screenshot 2026-07-23 201426" src="https://github.com/user-attachments/assets/e934c3b5-cdf5-4737-988c-541dcc535c32" />
